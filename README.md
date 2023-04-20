@@ -52,9 +52,9 @@
 
 ### Softwares  
 <div align="center">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" padding-right="5" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" padding-right="5" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" padding-right="5" /></a>  
 </div
 
 
